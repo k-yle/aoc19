@@ -1,0 +1,13 @@
+{
+  "name": "aoc19",
+  "version": "1.0.0",
+  "author": "Kyle Hensel",
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  }
+}
