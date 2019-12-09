@@ -4,4 +4,5 @@ ts-node src/2a # typescript
 node src/3a # javascript
 python src/4a.py # python
 cd src && go build && ./src # go
+node_modules/.bin/coffee src/8.coffee # coffeescript
 ```

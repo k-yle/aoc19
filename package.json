@@ -4,6 +4,7 @@
   "author": "Kyle Hensel",
   "devDependencies": {
     "@types/node": "^12.12.14",
+    "coffeescript": "^2.4.1",
     "eslint": "^6.7.2",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
